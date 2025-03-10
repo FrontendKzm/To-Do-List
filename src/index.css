@@ -1,0 +1,43 @@
+@import 'bootstrap/dist/css/bootstrap.min.css';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg-img{
+background-image: url("../../todo-app/public/jr-korpa-9XngoIpxcEo-unsplash.jpg");
+background-color: rgba(0, 0, 0, 0.5);
+background-size: cover;
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-position: center center;
+height: 100%;
+min-height: 100vh;
+width: 100%;
+min-width: auto;
+
+
+
+}
+
+
+
+
+input[type="date"]::-webkit-calendar-picker-indicator {
+  filter: invert(1); /* Beyaz renkte görünmesini sağlar */
+  opacity: 1; /* Görünürlüğü artırır */
+  cursor: pointer;
+}
+
+/* Açılan tarih seçme popup arayüzü */
+input[type="date"]::-webkit-datetime-edit {
+  color: white !important; /* Yazıyı beyaz yap */
+  background-color: black !important; /* Arka planı siyah yap */
+}
+
+/* Firefox için */
+input[type="date"]::-moz-datetime-edit {
+  color: white !important;
+  background-color: black !important;
+}
+
