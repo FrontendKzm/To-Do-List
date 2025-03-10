@@ -34,3 +34,17 @@ Clone the repo to your local machine:
 
 ```bash
 git clone https://github.com/FrontendKzm/To-Do-List.git
+
+### 🎯 Contributing
+Contributions are welcome! Here’s how you can contribute to this project:
+
+1.Fork the repository
+2.Create a new branch (git checkout -b feature-name)
+3.Make your changes and commit them (git commit -am 'Add new feature')
+4.Push to the branch (git push origin feature-name)
+5.Create a new pull request
+### 📜 License
+This project is licensed under the MIT License — see the LICENSE file for details.
+
+
+
