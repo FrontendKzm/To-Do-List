@@ -40,7 +40,7 @@ Contributions are welcome! Here’s how you can contribute to this project:
 
 ###  Screenshot
 Here's a screenshot of the app:
-![To-Do List Screenshot](./assets/ScreenShot.png)
+![To-Do List Screenshot](.src/assets/ScreenShot.PNG)
 
 
 ## 1.Fork the repository
