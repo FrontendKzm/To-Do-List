@@ -38,6 +38,11 @@ git clone https://github.com/FrontendKzm/To-Do-List.git
 ### 🎯 Contributing
 Contributions are welcome! Here’s how you can contribute to this project:
 
+###  Screenshot
+Here's a screenshot of the app:
+![To-Do List Screenshot](./assets/ScreenShot.png)
+
+
 ## 1.Fork the repository
 ## 2.Create a new branch (git checkout -b feature-name)
 ## 3.Make your changes and commit them (git commit -am 'Add new feature')
