@@ -34,7 +34,7 @@ Clone the repo to your local machine:
 
 ```bash
 git clone https://github.com/FrontendKzm/To-Do-List.git
-
+```
 ### 🎯 Contributing
 Contributions are welcome! Here’s how you can contribute to this project:
 
